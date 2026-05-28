@@ -1,5 +1,14 @@
 # @mcp-b/mcp-iframe
 
+## 2.4.0
+
+### Patch Changes
+
+- Updated dependencies [4f3cc5e]
+  - @mcp-b/webmcp-types@2.4.0
+  - @mcp-b/webmcp-ts-sdk@2.4.0
+  - @mcp-b/transports@2.4.0
+
 ## 2.3.1
 
 ### Patch Changes
